@@ -1,0 +1,14 @@
+# WARNING: This file contains example passwords for vulnerability scanning tests ONLY.
+# DO NOT use these passwords in any real-world, production, or sensitive environment.
+# Misuse of this file can lead to severe security breaches.
+
+password123
+admin123
+123456
+qwerty
+testpassword
+user1234
+P@ssw0rd!
+secret
+mysecurepassword
+changeme
